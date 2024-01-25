@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EAJKOP+b8KWK6BA9lszmDMcp6pJjd14W1jyO/XFCDOa9b1IPuLWsJjtyAeUh9KgLqqETtNLVSyklWuyFQW6e3g==",
+  "dgSpecHash": "ArxcagZfIdq+2OrOAwV2ggkbAX/B2kw2RWmbQPNWcPwLdbaP9lNmgNk173UDa3HSdYxYpjw3dfdneH5zMVi6uA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DEVELOPER\\Documents\\Proyecto\\Backend\\Test-Employees-Api.Tests\\Test-Employees-Api.Tests.csproj",
+  "projectFilePath": "C:\\Users\\DEVELOPER\\Documents\\GitHub\\Empoyee_Proyect\\Back\\Employees_Proyect_Api\\Test-Employees-Api.Tests\\Test-Employees-Api.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DEVELOPER\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\DEVELOPER\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
