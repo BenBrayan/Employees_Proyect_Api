@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ticdesarrollo01\\Documents\\Brayan\\TESTS\\Proyect-Employees\\Test-Employees-Api.Tests\\Test-Employees-Api.Tests.csproj": {}
+    "C:\\Users\\DEVELOPER\\Documents\\Proyecto\\Backend\\Test-Employees-Api.Tests\\Test-Employees-Api.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ticdesarrollo01\\Documents\\Brayan\\TESTS\\Proyect-Employees\\Test-Employees-Api.Tests\\Test-Employees-Api.Tests.csproj": {
+    "C:\\Users\\DEVELOPER\\Documents\\Proyecto\\Backend\\Test-Employees-Api.Tests\\Test-Employees-Api.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ticdesarrollo01\\Documents\\Brayan\\TESTS\\Proyect-Employees\\Test-Employees-Api.Tests\\Test-Employees-Api.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\DEVELOPER\\Documents\\Proyecto\\Backend\\Test-Employees-Api.Tests\\Test-Employees-Api.Tests.csproj",
         "projectName": "Test-Employees-Api.Tests",
-        "projectPath": "C:\\Users\\ticdesarrollo01\\Documents\\Brayan\\TESTS\\Proyect-Employees\\Test-Employees-Api.Tests\\Test-Employees-Api.Tests.csproj",
-        "packagesPath": "C:\\Users\\ticdesarrollo01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ticdesarrollo01\\Documents\\Brayan\\TESTS\\Proyect-Employees\\Test-Employees-Api.Tests\\obj\\",
+        "projectPath": "C:\\Users\\DEVELOPER\\Documents\\Proyecto\\Backend\\Test-Employees-Api.Tests\\Test-Employees-Api.Tests.csproj",
+        "packagesPath": "C:\\Users\\DEVELOPER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DEVELOPER\\Documents\\Proyecto\\Backend\\Test-Employees-Api.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ticdesarrollo01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DEVELOPER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ticdesarrollo01\\Documents\\Brayan\\TESTS\\Proyect-Employees\\Test-Employees-Api\\Test-Employees-Api.csproj": {
-                "projectPath": "C:\\Users\\ticdesarrollo01\\Documents\\Brayan\\TESTS\\Proyect-Employees\\Test-Employees-Api\\Test-Employees-Api.csproj"
+              "C:\\Users\\DEVELOPER\\Documents\\Proyecto\\Backend\\Test-Employees-Api\\Test-Employees-Api.csproj": {
+                "projectPath": "C:\\Users\\DEVELOPER\\Documents\\Proyecto\\Backend\\Test-Employees-Api\\Test-Employees-Api.csproj"
               }
             }
           }
@@ -89,24 +89,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ticdesarrollo01\\Documents\\Brayan\\TESTS\\Proyect-Employees\\Test-Employees-Api\\Test-Employees-Api.csproj": {
+    "C:\\Users\\DEVELOPER\\Documents\\Proyecto\\Backend\\Test-Employees-Api\\Test-Employees-Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ticdesarrollo01\\Documents\\Brayan\\TESTS\\Proyect-Employees\\Test-Employees-Api\\Test-Employees-Api.csproj",
+        "projectUniqueName": "C:\\Users\\DEVELOPER\\Documents\\Proyecto\\Backend\\Test-Employees-Api\\Test-Employees-Api.csproj",
         "projectName": "Test-Employees-Api",
-        "projectPath": "C:\\Users\\ticdesarrollo01\\Documents\\Brayan\\TESTS\\Proyect-Employees\\Test-Employees-Api\\Test-Employees-Api.csproj",
-        "packagesPath": "C:\\Users\\ticdesarrollo01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ticdesarrollo01\\Documents\\Brayan\\TESTS\\Proyect-Employees\\Test-Employees-Api\\obj\\",
+        "projectPath": "C:\\Users\\DEVELOPER\\Documents\\Proyecto\\Backend\\Test-Employees-Api\\Test-Employees-Api.csproj",
+        "packagesPath": "C:\\Users\\DEVELOPER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DEVELOPER\\Documents\\Proyecto\\Backend\\Test-Employees-Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ticdesarrollo01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DEVELOPER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -157,7 +157,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
